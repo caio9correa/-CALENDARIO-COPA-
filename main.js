@@ -24,7 +24,7 @@ function createCard(date, day, games) {
   `
 }
 
-document.querySelector("#cards").innerHTML =
+;;;;;;;;;document.querySelector("#cards").innerHTML =
   createCard(
     "20/11",
     "Domingo",
@@ -195,5 +195,173 @@ document.querySelector("#cards").innerHTML =
         "16:00",
         "mexico",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=ca&aqs=edge.0.69i59j69i57j0i433i512j0i131i433i512j0i512j0i433i512j69i60j69i61j69i60.1160j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xgzbp;2;/m/030q7;dt;fp;1;;;"
+      )
+  ) +
+  createCard(
+    "27/11",
+    "Domingo",
+    createGame(
+      "japao",
+      "07:00",
+      "costarica",
+      "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xg9v5;2;/m/030q7;dt;fp;1;;;"
+    ) +
+      createGame(
+        "belgica",
+        "10:00",
+        "marrocos",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1yqdbb;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "croacia",
+        "13:00",
+        "canada",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnytbtg;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "espanha",
+        "16:00",
+        "alemanha",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnywqh1;2;/m/030q7;dt;fp;1;;;"
+      )
+  ) +
+  createCard(
+    "28/11",
+    "Segunda",
+    createGame(
+      "camaroes",
+      "07:00",
+      "servia",
+      "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1z0h3c;2;/m/030q7;dt;fp;1;;;"
+    ) +
+      createGame(
+        "coreiadosul",
+        "10:00",
+        "gana",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xnh3t;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "brasil",
+        "13:00",
+        "suica",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xv7k8;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "portugal",
+        "16:00",
+        "uruguai",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1z5w1m;2;/m/030q7;dt;fp;1;;;"
+      )
+  ) +
+  createCard(
+    "29/11",
+    "Terça",
+    createGame(
+      "equador",
+      "07:00",
+      "senegal",
+      "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0x9q0c;2;/m/030q7;dt;fp;1;;;"
+    ) +
+      createGame(
+        "holanda",
+        "10:00",
+        "catar",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xcd15;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "ira",
+        "13:00",
+        "usa",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1ym5x8;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "paisdegales",
+        "16:00",
+        "inglaterra",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnypbd5;2;/m/030q7;dt;fp;1;;;"
+      )
+  ) +
+  createCard(
+    "30/11",
+    "Quarta",
+    createGame(
+      "tunisia",
+      "07:00",
+      "franca",
+      "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xf4ld;2;/m/030q7;dt;fp;1;;;"
+    ) +
+      createGame(
+        "australia",
+        "10:00",
+        "dinamarca",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnyz1_j;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "polonia",
+        "13:00",
+        "argentina",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xc18c;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "arabiasaudita",
+        "16:00",
+        "mexico",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnytv3l;2;/m/030q7;dt;fp;1;;;"
+      )
+  ) +
+  createCard(
+    "01/12",
+    "Quinta",
+    createGame(
+      "croacia",
+      "07:00",
+      "belgica",
+      "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xhssz;2;/m/030q7;dt;fp;1;;;"
+    ) +
+      createGame(
+        "canada",
+        "10:00",
+        "marrocos",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1z3ddq;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "japao",
+        "13:00",
+        "espanha",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xg2kk;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "costarica",
+        "16:00",
+        "alemanha",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnyqsbq;2;/m/030q7;dt;fp;1;;;"
+      )
+  ) +
+  createCard(
+    "02/12",
+    "Sexta",
+    createGame(
+      "coreiadosul",
+      "07:00",
+      "portugal",
+      "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xr3gs;2;/m/030q7;dt;fp;1;;;"
+    ) +
+      createGame(
+        "gana",
+        "10:00",
+        "uruguai",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1z1pn9;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "servia",
+        "13:00",
+        "suica",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnyz8qh;2;/m/030q7;dt;fp;1;;;"
+      ) +
+      createGame(
+        "camaroes",
+        "16:00",
+        "brasil",
+        "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnz0dkc;2;/m/030q7;dt;fp;1;;;"
       )
   )

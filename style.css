@@ -59,8 +59,10 @@ header {
   text-align: center;
 
   background: var(--card-bg-color);
-  border-bottom: 2px solid var(--card-color-primary);
+  border-bottom: 6px solid var(--card-color-primary);
+  border-top: 6px solid var(--card-color-primary);
   border-radius: 6px;
+  margin-bottom: 40px;
 }
 
 .card h2 {
@@ -115,13 +117,15 @@ header {
 
 .card h2:hover,
 .card ul li strong:hover,
-.card ul li img:hover {
+.card ul li img:hover,
+.links:hover {
   transform: scale(1.1);
 }
 
 .card h2,
 .card ul li strong,
-.card ul li img {
+.card ul li img,
+.links a {
   transition: transform 0.3s;
 }
 
