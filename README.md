@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/74628750/203446012-525cf4c8-64bc-4a6f-8a4f-3ca863bae3c3.jpg" width="250px" target="_blank"/>
 </p>
 <h4 align="Center"> Disponivel em: <a target="_blank" href="https://caio9correa.github.io/-CALENDARIO-COPA-/">Site</a><h4>
-## 🚀 Tecnologias
+##🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
