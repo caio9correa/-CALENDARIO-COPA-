@@ -258,19 +258,19 @@ function createCard(date, day, games) {
     "Terça",
     createGame(
       "equador",
-      "07:00",
+      "12:00",
       "senegal",
       "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0x9q0c;2;/m/030q7;dt;fp;1;;;"
     ) +
       createGame(
         "holanda",
-        "10:00",
+        "12:00",
         "catar",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xcd15;2;/m/030q7;dt;fp;1;;;"
       ) +
       createGame(
         "ira",
-        "13:00",
+        "16:00",
         "usa",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1ym5x8;2;/m/030q7;dt;fp;1;;;"
       ) +
@@ -286,19 +286,19 @@ function createCard(date, day, games) {
     "Quarta",
     createGame(
       "tunisia",
-      "07:00",
+      "12:00",
       "franca",
       "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xf4ld;2;/m/030q7;dt;fp;1;;;"
     ) +
       createGame(
         "australia",
-        "10:00",
+        "12:00",
         "dinamarca",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnyz1_j;2;/m/030q7;dt;fp;1;;;"
       ) +
       createGame(
         "polonia",
-        "13:00",
+        "16:00",
         "argentina",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xc18c;2;/m/030q7;dt;fp;1;;;"
       ) +
@@ -314,19 +314,19 @@ function createCard(date, day, games) {
     "Quinta",
     createGame(
       "croacia",
-      "07:00",
+      "12:00",
       "belgica",
       "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xhssz;2;/m/030q7;dt;fp;1;;;"
     ) +
       createGame(
         "canada",
-        "10:00",
+        "12:00",
         "marrocos",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1z3ddq;2;/m/030q7;dt;fp;1;;;"
       ) +
       createGame(
         "japao",
-        "13:00",
+        "16:00",
         "espanha",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xg2kk;2;/m/030q7;dt;fp;1;;;"
       ) +
@@ -342,19 +342,19 @@ function createCard(date, day, games) {
     "Sexta",
     createGame(
       "coreiadosul",
-      "07:00",
+      "12:00",
       "portugal",
       "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11pz0xr3gs;2;/m/030q7;dt;fp;1;;;"
     ) +
       createGame(
         "gana",
-        "10:00",
+        "12:00",
         "uruguai",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11rq1z1pn9;2;/m/030q7;dt;fp;1;;;"
       ) +
       createGame(
         "servia",
-        "13:00",
+        "16:00",
         "suica",
         "https://www.google.com/search?q=calendario+copa+do+mundo+2022&oq=calendari&aqs=edge.0.69i59j69i57j0i512j0i3j0i433i512j0i512j69i60l3.1331j0j1&sourceid=chrome&ie=UTF-8#sie=m;/g/11spnyz8qh;2;/m/030q7;dt;fp;1;;;"
       ) +
