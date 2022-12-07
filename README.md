@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-
+Projeto desenvolvido durante o evento Nlw da rocketseat <br>
 O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 
 
