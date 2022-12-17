@@ -1,4 +1,4 @@
-<h1 align="center"> Calendário Copa</h1>
+<h1 align="center"> Calendário da Copa</h1>
 
 
 <p align="center">
